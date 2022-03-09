@@ -1,7 +1,7 @@
 ### Hi there I'm Dharma 👋
 
 - 😄 Recent graduate of @CodeYourFuture as a junior full stack web developer
-- 🔭 I’m currently working over at my personal Repo, link listed below 
+- 🔭 I’m currently working over at my personal [Repo](https://github.com/dharmaemmelene) 
 - 🌱 I’m currently learning C++, I know, I'm a glutton for punishment🤭
 - 🤔 I’m looking for help with finding cool projects to build whilst looking of rmy first junior role
 - ⚡ Fun fact: I'm a sci-fi geek, both Trek and Wars. If pressed, for me it's Trek, then Wars, but that's a discussion for another time
